@@ -12,9 +12,6 @@
 <!-- 사용 언어 비율 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woghks2&layout=compact)
 
-<!-- Velog 최신 글 -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](https://velog.io/@벨로그아이디)
-
 <!-- 뱃지 예시 -->
 <a href="https://www.instagram.com">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
@@ -25,9 +22,6 @@
 
 <!-- 타이핑 애니메이션 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=데이터+분석가;)](https://git.io/typing-svg)
-
-<!-- 토글 예시 -->
-<summary>📚 테크 스택</summary>
 
 ## 🛠 Tech Stack
 
