@@ -82,30 +82,41 @@
   3. 사용 기술 스택 (간단히 텍스트나 뱃지로)
 -->
 
-* **[DunTong (던통)](http://duntong.xyz)** : Dungeon & Fighter 정보 제공 웹 서비스 (`2025.12 ~ 진행중`)
-  - **Description**: 
-    - 메인 페이지 내 검색 진입점(Hero Search Bar) 도입 A/B 테스트를 주도하여 홈 → 상세 페이지 전환율(CVR) 4.2%p(15.7% → 19.9%) 개선 및 검색 시작률 18%p 대폭 상승
-    - 낮은 검색 접근성 문제를 정의하고 설계부터 테스트까지 진행하여, 검색 품질 저하 없이 상세 페이지 진입 세션을 기존 대비 약 27% 증대시키는 성과 달성
-    - Airflow 기반 크롤링 및 데이터 마트/데이터 웨어하우스(DM/DW) 파이프라인 구축
-    - 사용자 행동 로깅 및 A/B 테스트 실험 분석 환경 설계
-  - **Tech Stack**: `Svelte`, `FastAPI`, `BigQuery`, `PostgreSQL`, `Cloud Storage`, `Airflow`
+### 📌 [DunTong (던통)](http://duntong.xyz) : Dungeon & Fighter 정보 제공 웹 서비스
+- **Date**: 2025.12 ~ 진행중
+- **Tech Stack**: `Svelte`, `FastAPI`, `BigQuery`, `PostgreSQL`, `Cloud Storage`, `Airflow`
+- **Description**: 
+  - 메인 페이지 내 검색 진입점(Hero Search Bar) 도입 A/B 테스트를 주도하여 홈 → 상세 페이지 전환율(CVR) 4.2%p(15.7% → 19.9%) 개선 및 검색 시작률 18%p 대폭 상승
+  - 낮은 검색 접근성 문제를 정의하고 설계부터 테스트까지 진행하여, 검색 품질 저하 없이 상세 페이지 진입 세션을 기존 대비 약 27% 증대시키는 성과 달성
+  - Airflow 기반 크롤링 및 데이터 마트/데이터 웨어하우스(DM/DW) 파이프라인 구축
+  - 사용자 행동 로깅 및 A/B 테스트 실험 분석 환경 설계
 
-* **모하시네마** : LLM 및 Vector DB 기반 개인 맞춤형 영화 추천 서비스 (`2025.09.01 ~ 2025.09.29`)
-  - **Description**: 
-    - 데이터 결측으로 인한 임베딩 성능 저하 문제를 크롤링과 DBSCAN을 통한 키워드 보강으로 개선
-    - EC2 단일 코어 환경의 CPU 부하를 PCA 및 Recall@K 평가로 추천 성능 저하 없이 리소스 27% 절감
-    - Vector Semantic Search 시 도메인 불일치 문제를 MLP Layer를 적용해 유사도 검색 성능 향상
-    - 임베딩 시 데이터 절삭 이슈를 Multi Field / Chunk Embedding으로 해결해 벡터 품질 보존
-    - 프롬프트 임베딩 시 발생하는 지연을 Sentence Transformer와 캐싱을 통해 API 응답속도 23% 개선
-  - **Tech Stack**: `FastAPI`, `PostgreSQL`, `Hugging Face`, `Spring Boot`, `React`
+<br/>
+<hr/>
+<br/>
 
-* **게임 로그 데이터 기반 BM 구매 예측 분석** (`2024.09 ~ 2024.11`)
-  - **Description**: 
-    - 웹 크롤링과 OpenAPI를 활용해 160만 캐릭터, 12만 유저 규모의 게임 로그 데이터 파이프라인 수집 및 분석
-    - 컨텐츠 클리어 로그 등 유저 행동 패턴 기반 Feature Engineering 및 유저 단위 데이터 집계 수행
-    - XGBoost 기반 구매 예측 모델 구축 및 클래스 불균형(Class Imbalance) 처리를 통해 F1 Score 대폭 개선 (0.38 → 0.85)
-    - Feature Importance 및 구매 확률 분석을 통해 타겟 마케팅이 가능한 유저 세그먼트 도출
-  - **Tech Stack**: `Python`, `Pandas`, `Scikit-learn`, `XGBoost`
+### 📌 모하시네마 : LLM 및 Vector DB 기반 개인 맞춤형 영화 추천 서비스
+- **Date**: 2025.09.01 ~ 2025.09.29
+- **Tech Stack**: `FastAPI`, `PostgreSQL`, `Hugging Face`, `Spring Boot`, `React`
+- **Description**: 
+  - 데이터 결측으로 인한 임베딩 성능 저하 문제를 크롤링과 DBSCAN을 통한 키워드 보강으로 개선
+  - EC2 단일 코어 환경의 CPU 부하를 PCA 및 Recall@K 평가로 추천 성능 저하 없이 리소스 27% 절감
+  - Vector Semantic Search 시 도메인 불일치 문제를 MLP Layer를 적용해 유사도 검색 성능 향상
+  - 임베딩 시 데이터 절삭 이슈를 Multi Field / Chunk Embedding으로 해결해 벡터 품질 보존
+  - 프롬프트 임베딩 시 발생하는 지연을 Sentence Transformer와 캐싱을 통해 API 응답속도 23% 개선
+
+<br/>
+<hr/>
+<br/>
+
+### 📌 게임 로그 데이터 기반 BM 구매 예측 분석 : 유저 행동 패턴 기반 구매 지표 모델링
+- **Date**: 2024.09 ~ 2024.11
+- **Tech Stack**: `Python`, `Pandas`, `Scikit-learn`, `XGBoost`
+- **Description**: 
+  - 웹 크롤링과 OpenAPI를 활용해 160만 캐릭터, 12만 유저 규모의 게임 로그 데이터 파이프라인 수집 및 분석
+  - 컨텐츠 클리어 로그 등 유저 행동 패턴 기반 Feature Engineering 및 유저 단위 데이터 집계 수행
+  - XGBoost 기반 구매 예측 모델 구축 및 클래스 불균형(Class Imbalance) 처리를 통해 F1 Score 대폭 개선 (0.38 → 0.85)
+  - Feature Importance 및 구매 확률 분석을 통해 타겟 마케팅이 가능한 유저 세그먼트 도출
 
 ---
 
