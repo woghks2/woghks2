@@ -18,52 +18,40 @@
 
 ## 🛠 Tech Stack
 
-### 📊 Data Science & Analysis
 <p>
   <strong>Core Languages</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-<p>
-  <strong>Libraries & Tools</strong><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Superset-20A7C9?style=for-the-badge&logo=apache%20superset&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-### 🗄️ Database & Cloud
 <p>
-  <strong>Database</strong><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <strong>Frameworks & Libraries</strong><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
+
 <p>
-  <strong>Google Cloud Platform</strong><br>
+  <strong>Cloud</strong><br>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud%20SQL-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=google%20compute%20engine&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=google%20cloud%20storage&logoColor=white">
 </p>
 
-### 🌐 Web Development
 <p>
-  <strong>Main Stack</strong><br>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-<p>
-  <strong>Experiences</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <strong>Data Tools</strong><br>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/%20Superset-20A7C9?style=for-the-badge&logo=apache%20superset&logoColor=white">
 </p>
 
-### 🛠 Tools & Collaboration
 <p>
+  <strong>Collaboration</strong><br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
