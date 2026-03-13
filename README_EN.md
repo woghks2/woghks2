@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-**사용자 행동 로그에서 문제를 발견하고, 데이터를 근거로 더 나은 UX 경험을 설계하는 데이터 분석가입니다.**
+**I am a Data Analyst who identifies friction in user journeys and designs better UX through data-driven evidence.**
 
-> *"퍼널 분석과 A/B 테스트를 통해 가설을 검증하며, 검색 진입점 개선만으로 상세 페이지 전환율(CVR)을 4.2%p 끌어올리는 등 실제적인 UX 임팩트를 만들어왔습니다."*
+> *"By validating hypotheses through funnel analysis and A/B testing, I have created tangible UX impacts, such as increasing Conversion Rate (CVR) by 4.2%p simply by optimizing search touchpoints."*
 
-단순한 수치 추출을 넘어, 풀스택 웹 개발 역량을 바탕으로 데이터 기반의 시각화와 실험을 거쳐 서비스를 개선해 나가는 과정을 즐깁니다.
+Beyond simple data extraction, I enjoy the process of improving services through data-driven visualization and experimentation, leveraging my full-stack web development capabilities.
 
 </br>
 
@@ -37,9 +37,9 @@
 ### Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) 
-![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=databricks&logoColor=white) 
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=flat&logo=googlecloud&logoColor=white) 
-![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloudstorage&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=flat&logo=googlecloudstorage&logoColor=white)
 
 ### Tools
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) 
@@ -57,41 +57,41 @@
 
 ## 🚀 Featured Projects
 
-### 📌 [DunTong (던통)](http://duntong.xyz) : Dungeon & Fighter 정보 제공 웹 서비스
-- **Date**: 2025.12 ~ 진행중
+### 📌 [DunTong](http://duntong.xyz) : D&F Information Web Service
+- **Date**: 2025.12 ~ Present
 - **Tech Stack**: `Svelte`, `FastAPI`, `BigQuery`, `PostgreSQL`, `Cloud Storage`, `Airflow`
 - **Description**: 
-  - 메인 페이지 내 검색 진입점(Hero Search Bar) 도입 A/B 테스트를 주도하여 홈 → 상세 페이지 전환율(CVR) 4.2%p(15.7% → 19.9%) 개선 및 검색 시작률 18%p 대폭 상승
-  - 낮은 검색 접근성 문제를 정의하고 설계부터 테스트까지 진행하여, 검색 품질 저하 없이 상세 페이지 진입 세션을 기존 대비 약 27% 증대시키는 성과 달성
-  - Airflow 기반 크롤링 및 데이터 마트/데이터 웨어하우스(DM/DW) 파이프라인 구축
-  - 사용자 행동 로깅 및 A/B 테스트 실험 분석 환경 설계
+  - Led an A/B test of the Hero Search Bar, improving the home-to-detail page conversion rate (CVR) by 4.2%p (15.7% → 19.9%) and significantly increasing the search initiation rate by 18%p.
+  - Defined low search accessibility and executed from design to testing, resulting in a 27% increase in detail page entry sessions without compromising search quality.
+  - Built Airflow-based crawling and DM/DW pipelines.
+  - Designed user behavior logging and A/B test analysis environments.
 
 <br/>
 <hr/>
 <br/>
 
-### 📌 모하시네마 : LLM 및 Vector DB 기반 개인 맞춤형 영화 추천 서비스
+### 📌 Mohacinema : LLM & Vector DB Personal Movie Recommendation
 - **Date**: 2025.09.01 ~ 2025.09.29
 - **Tech Stack**: `FastAPI`, `PostgreSQL`, `Hugging Face`, `Spring Boot`, `React`
 - **Description**: 
-  - 데이터 결측으로 인한 임베딩 성능 저하 문제를 크롤링과 DBSCAN을 통한 키워드 보강으로 개선
-  - EC2 단일 코어 환경의 CPU 부하를 PCA 및 Recall@K 평가로 추천 성능 저하 없이 리소스 27% 절감
-  - Vector Semantic Search 시 도메인 불일치 문제를 MLP Layer를 적용해 유사도 검색 성능 향상
-  - 임베딩 시 데이터 절삭 이슈를 Multi Field / Chunk Embedding으로 해결해 벡터 품질 보존
-  - 프롬프트 임베딩 시 발생하는 지연을 Sentence Transformer와 캐싱을 통해 API 응답속도 23% 개선
+  - Improved embedding performance by augmenting keywords through crawling and DBSCAN for data missing issues.
+  - Reduced resources by 27% without compromising performance through PCA and Recall@K evaluation in an EC2 single-core environment.
+  - Enhanced similarity search performance by applying MLP Layer for domain mismatch in Vector Semantic Search.
+  - Preserved vector quality by resolving data truncation issues during embedding with Multi Field / Chunk Embedding.
+  - Improved API response speed by 23% through Sentence Transformer and caching for prompt embedding latency.
 
 <br/>
 <hr/>
 <br/>
 
-### 📌 게임 로그 데이터 기반 BM 구매 예측 분석 : 유저 행동 패턴 기반 구매 지표 모델링
+### 📌 Game Log Data Based BM Purchase Prediction : Behavioral Pattern Modeling
 - **Date**: 2024.09 ~ 2024.11
 - **Tech Stack**: `Python`, `Pandas`, `Scikit-learn`, `XGBoost`
 - **Description**: 
-  - 웹 크롤링과 OpenAPI를 활용해 160만 캐릭터, 12만 유저 규모의 게임 로그 데이터 파이프라인 수집 및 분석
-  - 컨텐츠 클리어 로그 등 유저 행동 패턴 기반 Feature Engineering 및 유저 단위 데이터 집계 수행
-  - XGBoost 기반 구매 예측 모델 구축 및 클래스 불균형(Class Imbalance) 처리를 통해 F1 Score 대폭 개선 (0.38 → 0.85)
-  - Feature Importance 및 구매 확률 분석을 통해 타겟 마케팅이 가능한 유저 세그먼트 도출
+  - Collected and analyzed large-scale game log data (1.6M characters, 120k users) utilizing web crawling and OpenAPI.
+  - Performed Feature Engineering based on behavioral patterns such as content clear logs and user-level data aggregation.
+  - Built an XGBoost-based purchase prediction model and significantly improved F1 Score (0.38 → 0.85) by handling class imbalance.
+  - Identified targetable user segments through feature importance and purchase probability analysis.
 
 </br>
 
