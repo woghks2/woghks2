@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Jaehwan%20👋&fontSize=45&fontAlignY=40" alt="header banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data-Driven+UX+Strategist;UX+Insight+Explorer;User-Centric+Analyst&center=true&width=500&height=50&font=Fira+Code&weight=600&size=22&color=58A6FF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;UX-focused+Analyst;Insight+Explorer&center=true&width=500&height=50&font=Fira+Code&weight=600&size=22&color=58A6FF" alt="Typing SVG" />
   </a>
 </div>
 
