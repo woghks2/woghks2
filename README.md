@@ -37,14 +37,14 @@
 ### Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) 
-![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=databricks&logoColor=white) 
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloudstorage&logoColor=white)
 
 ### Tools
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
 ![Superset](https://img.shields.io/badge/Superset-20A7C9?style=flat&logo=apache-superset&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -59,7 +59,7 @@
 
 ### 📌 [DunTong (던통)](http://duntong.xyz) : Dungeon & Fighter 정보 제공 웹 서비스
 - **Date**: 2025.12 ~ 진행중
-- **Tech Stack**: `Svelte`, `FastAPI`, `BigQuery`, `PostgreSQL`, `Cloud Storage`, `Airflow`
+- **Tech Stack**: ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloudstorage&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 - **Description**: 
   - 메인 페이지 내 검색 진입점(Hero Search Bar) 도입 A/B 테스트를 주도하여 홈 → 상세 페이지 전환율(CVR) 4.2%p(15.7% → 19.9%) 개선 및 검색 시작률 18%p 대폭 상승
   - 낮은 검색 접근성 문제를 정의하고 설계부터 테스트까지 진행하여, 검색 품질 저하 없이 상세 페이지 진입 세션을 기존 대비 약 27% 증대시키는 성과 달성
@@ -72,7 +72,7 @@
 
 ### 📌 모하시네마 : LLM 및 Vector DB 기반 개인 맞춤형 영화 추천 서비스
 - **Date**: 2025.09.01 ~ 2025.09.29
-- **Tech Stack**: `FastAPI`, `PostgreSQL`, `Hugging Face`, `Spring Boot`, `React`
+- **Tech Stack**: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 - **Description**: 
   - 데이터 결측으로 인한 임베딩 성능 저하 문제를 크롤링과 DBSCAN을 통한 키워드 보강으로 개선
   - EC2 단일 코어 환경의 CPU 부하를 PCA 및 Recall@K 평가로 추천 성능 저하 없이 리소스 27% 절감
@@ -86,7 +86,7 @@
 
 ### 📌 게임 로그 데이터 기반 BM 구매 예측 분석 : 유저 행동 패턴 기반 구매 지표 모델링
 - **Date**: 2024.09 ~ 2024.11
-- **Tech Stack**: `Python`, `Pandas`, `Scikit-learn`, `XGBoost`
+- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB6024?style=flat&logo=xgboost&logoColor=white)
 - **Description**: 
   - 웹 크롤링과 OpenAPI를 활용해 160만 캐릭터, 12만 유저 규모의 게임 로그 데이터 파이프라인 수집 및 분석
   - 컨텐츠 클리어 로그 등 유저 행동 패턴 기반 Feature Engineering 및 유저 단위 데이터 집계 수행
