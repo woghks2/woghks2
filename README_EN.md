@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Jaehwan%20👋&fontSize=45&fontAlignY=40" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%27m%20Jaehwan%20Lee%2C%20a%20Data%20Analyst%20👋&fontSize=45&fontAlignY=40" alt="header banner" />
 
-  <a href="https://git.io/typing-svg">
+  <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;UX-focused+Analyst;Insight+Explorer&center=true&width=500&height=50&font=Fira+Code&weight=600&size=22&color=58A6FF" alt="Typing SVG" />
-  </a>
+  </a> -->
 </div>
 
 ## 👨‍💻 About Me
@@ -78,7 +78,7 @@ Beyond simple data extraction, I enjoy the process of improving services through
   - Reduced resources by 27% without compromising performance through PCA and Recall@K evaluation in an EC2 single-core environment.
   - Enhanced similarity search performance by applying MLP Layer for domain mismatch in Vector Semantic Search.
   - Preserved vector quality by resolving data truncation issues during embedding with Multi Field / Chunk Embedding.
-  - Improved API response speed by 23% through Sentence Transformer and caching for prompt embedding latency.
+  - Improved API response speed by 23% through Sentence Transformer for prompt embedding latency.
 
 <br/>
 <hr/>

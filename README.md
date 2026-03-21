@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Jaehwan%20👋&fontSize=45&fontAlignY=40" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=데이터 분석가%20이재환입니다%20👋&fontSize=45&fontAlignY=40" alt="header banner" />
 
-  <a href="https://git.io/typing-svg">
+  <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;UX-focused+Analyst;Insight+Explorer&center=true&width=500&height=50&font=Fira+Code&weight=600&size=22&color=58A6FF" alt="Typing SVG" />
-  </a>
+  </a> -->
 </div>
 
 ## 👨‍💻 About Me
@@ -78,7 +78,7 @@
   - EC2 단일 코어 환경의 CPU 부하를 PCA 및 Recall@K 평가로 추천 성능 저하 없이 리소스 27% 절감
   - Vector Semantic Search 시 도메인 불일치 문제를 MLP Layer를 적용해 유사도 검색 성능 향상
   - 임베딩 시 데이터 절삭 이슈를 Multi Field / Chunk Embedding으로 해결해 벡터 품질 보존
-  - 프롬프트 임베딩 시 발생하는 지연을 Sentence Transformer와 캐싱을 통해 API 응답속도 23% 개선
+  - 프롬프트 임베딩 시 발생하는 지연을 Sentence Transformer를 통해 API 응답속도 23% 개선
 
 <br/>
 <hr/>
@@ -97,6 +97,11 @@
 
 ## 🏆 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woghks19)](https://solved.ac/woghks19)
+
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woghks2&layout=compact)
+ -->
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70" alt="footer banner" />
