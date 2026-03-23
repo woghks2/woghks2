@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%27m%20Jaehwan%20Lee%2C%20a%20Data%20Analyst%20👋&fontSize=45&fontAlignY=40" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=I%27m%20Jaehwan%20Lee%2C%20a%20Data%20Analyst&fontSize=40&fontAlignY=35" width="100%" alt="header banner" />
 </div>
 
 ## 👨‍💻 About Me
@@ -95,5 +95,5 @@ Beyond simple data extraction, I enjoy the process of improving services through
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woghks19)](https://solved.ac/woghks19)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70" width="100%" alt="footer banner" />
 </div>
