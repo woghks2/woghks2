@@ -4,10 +4,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=데이터 분석가%20이재환입니다%20👋&fontSize=45&fontAlignY=40" alt="header banner" />
-
-  <!-- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;UX-focused+Analyst;Insight+Explorer&center=true&width=500&height=50&font=Fira+Code&weight=600&size=22&color=58A6FF" alt="Typing SVG" />
-  </a> -->
 </div>
 
 ## 👨‍💻 About Me
