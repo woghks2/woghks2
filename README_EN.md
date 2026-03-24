@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-**I am a Data Analyst who identifies friction in user journeys and designs better UX through data-driven evidence.**
+**I am a Data Analyst who defines problems from user behavior logs and improves service metrics through hypotheses and experimentation.**
 
-> *"By validating hypotheses through funnel analysis and A/B testing, I have created tangible UX impacts, such as increasing Conversion Rate (CVR) by 4.2%p simply by optimizing search touchpoints."*
+> *"By identifying search entry bottlenecks on the main page through funnel analysis and designing A/B tests for accessibility, I improved the detail page conversion rate (CVR) by 4.2%p."*
 
-Beyond simple data extraction, I enjoy the process of improving services through data-driven visualization and experimentation, leveraging my full-stack web development capabilities.
+Beyond just analyzing data, I drive the entire data-informed decision-making cycle—from problem definition and experimental design to validation and iteration—to enhance the user experience.
 
 </br>
 
